@@ -1,7 +1,15 @@
 # h1 header
 ## second header 
 ## third header
+
+
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+
+
+
+``` javascript
+var myVar = "Hello, github!";
+```
 
 
 
